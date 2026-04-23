@@ -1,63 +1,92 @@
-# 📜 HEEN - Electronic Will Application (حين)
+<!-- 🔥 HEADER -->
+<h1 align="center">💼 Smart Electronic Will Management System</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/University-King%20Khalid%20University-green?style=for-the-badge" alt="KKU">
-  <img src="https://img.shields.io/badge/Degree-B.Sc.%20Computer%20Science-blue?style=for-the-badge" alt="CS">
+  <b>A Secure Digital Solution for Managing Wills Efficiently</b>
 </p>
 
----
-
-## 🌟 Abstract
-**HEEN (حين)** is a comprehensive application designed to assist users in creating and managing their wills and testamentary instructions efficiently and securely. This system provides a user-friendly platform for individuals to document their financial assets, properties, and personal wishes, ensuring they are executed accurately after their passing.
-
----
-
-## 🎯 Key Objectives
-* **Digital Transformation:** Modernizing the process of will creation and execution for the digital age.
-* **Security & Privacy:** Implementing a secure digital vault for sensitive personal data.
-* **Family Harmony:** Reducing potential disputes and misunderstandings through clear, documented instructions.
-* **Community Support:** Integrating features for donation management and requesting support.
-
----
-
-## 📊 System Analysis & Design
-The project followed a rigorous Software Development Life Cycle (SDLC), including:
-* **Requirement Engineering:** Detailed Functional and Non-functional requirements.
-* **UML Modeling:** * Use Case Diagrams (User Interactions)
-  * Class Diagrams (System Structure)
-  * Sequence Diagrams (Process Logic: Creating Will, Donation, Support)
-  * Activity Diagrams (Workflow Management)
-
----
-
-## 🛠️ Tech Stack & Requirements
-* **Field:** Software Engineering / Mobile Application Development.
-* **Tools:** [اكتبي الأدوات المستخدمة هنا مثل Android Studio, Flutter, or Firebase].
-* **Methodology:** Systematic analysis and design approach.
-
----
-
-## 📂 Project Documentation
-The complete technical report covering the analysis, design, and methodology is available below:
-[📥 Download Full Project Documentation (PDF)](Electronic_Will_Application(GP2).pdf.pdf)
-
----
-
-## 👥 The Development Team
-This project was submitted in partial fulfillment of the requirements for the Degree of B.Sc. in Computer Science at **King Khalid University**.
-
-**Team Members:**
-* Amani Hamad Ahmed
-* Jana Mesfer Mohammed
-* Mashael Mohammed Ali
-* Rana Abdullah Al-jaziea
-* Rahaf Hassan Ali
-* Weجdan Mesfer Alqhtani
-
-**Supervised by:** Dr. Sara Abdulrahman
-
----
 <p align="center">
-  <i>"Towards a new standard for testamentary planning in the digital age."</i>
+  <img src="preview.png" width="80%" />
 </p>
-Full report available in the PDF file.
+
+<hr>
+
+<h2>🎨 Application Interface</h2>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="login.png" width="90%"/><br/>
+<b>🔐 Secure Login</b><br/>
+<sub>Ensures user identity protection and secure access</sub>
+</td>
+
+<td align="center" width="50%">
+<img src="home.png" width="90%"/><br/>
+<b>🏠 Dashboard</b><br/>
+<sub>Central control for managing wills and user data</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="will.png" width="90%"/><br/>
+<b>📝 Create Will</b><br/>
+<sub>Structured process for writing and organizing wills</sub>
+</td>
+
+<td align="center">
+<img src="donation.png" width="90%"/><br/>
+<b>🎁 Asset Distribution</b><br/>
+<sub>Flexible management of beneficiaries and donations</sub>
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h2>🎯 Problem Addressed</h2>
+<p>
+Traditional will management is complex and lacks secure digital solutions. This system simplifies the process by providing a structured and secure platform.
+</p>
+
+<h2>💡 Proposed Solution</h2>
+<p>
+A centralized digital system that allows users to create, store, and manage wills efficiently and securely.
+</p>
+
+<hr>
+
+<h2>🧠 System Design</h2>
+<p>
+📌 Use Case Diagram<br/>
+📌 ER Diagram<br/>
+📌 Class Diagram<br/>
+📌 Database Structure
+</p>
+
+<hr>
+
+<h2>🚀 Project Strengths</h2>
+<p>
+✔ Secure handling of sensitive data<br/>
+✔ Real-world applicable system<br/>
+✔ Scalable architecture<br/>
+✔ User-centered design
+</p>
+
+<hr>
+
+<h2>👩‍💻 My Contribution</h2>
+<p>
+- Designed system workflow and architecture<br/>
+- Built database structure and relationships<br/>
+- Translated user requirements into system features
+</p>
+
+<hr>
+
+<h2>📎 Documentation</h2>
+<p>
+Full project report is available in the attached PDF file.
 </p>
