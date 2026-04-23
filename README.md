@@ -17,13 +17,13 @@
 <tr>
 <td align="center" width="50%">
 <img src="login.png" width="90%"/><br/>
-<b>🔐 Secure Login</b><br/>
+<b> Secure Login</b><br/>
 <sub>Ensures user identity protection and secure access</sub>
 </td>
 
 <td align="center" width="50%">
 <img src="home.png" width="100%"/><br/>
-<b>🏠 Dashboard</b><br/>
+<b Dashboard</b><br/>
 <sub>Central control for managing wills and user data</sub>
 </td>
 </tr>
