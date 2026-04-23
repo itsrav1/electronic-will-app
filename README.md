@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="preview.png" width="80%" />
+  <img src="preview.png" width="400%" />
 </p>
 
 <hr>
