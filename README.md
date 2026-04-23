@@ -1,98 +1,63 @@
-# electronic-will-app
-<!-- 🔥 HEADER -->
-<h1 align="center">💼Electronic Will app</h1>
-
+# 📜 HEEN - Electronic Will Application (حين)
 <p align="center">
-  <b>Secure • Modern • User-Centered</b>
+  <img src="https://img.shields.io/badge/University-King%20Khalid%20University-green?style=for-the-badge" alt="KKU">
+  <img src="https://img.shields.io/badge/Degree-B.Sc.%20Computer%20Science-blue?style=for-the-badge" alt="CS">
 </p>
 
+---
+
+## 🌟 Abstract
+**HEEN (حين)** is a comprehensive application designed to assist users in creating and managing their wills and testamentary instructions efficiently and securely. This system provides a user-friendly platform for individuals to document their financial assets, properties, and personal wishes, ensuring they are executed accurately after their passing.
+
+---
+
+## 🎯 Key Objectives
+* **Digital Transformation:** Modernizing the process of will creation and execution for the digital age.
+* **Security & Privacy:** Implementing a secure digital vault for sensitive personal data.
+* **Family Harmony:** Reducing potential disputes and misunderstandings through clear, documented instructions.
+* **Community Support:** Integrating features for donation management and requesting support.
+
+---
+
+## 📊 System Analysis & Design
+The project followed a rigorous Software Development Life Cycle (SDLC), including:
+* **Requirement Engineering:** Detailed Functional and Non-functional requirements.
+* **UML Modeling:** * Use Case Diagrams (User Interactions)
+  * Class Diagrams (System Structure)
+  * Sequence Diagrams (Process Logic: Creating Will, Donation, Support)
+  * Activity Diagrams (Workflow Management)
+
+---
+
+## 🛠️ Tech Stack & Requirements
+* **Field:** Software Engineering / Mobile Application Development.
+* **Tools:** [اكتبي الأدوات المستخدمة هنا مثل Android Studio, Flutter, or Firebase].
+* **Methodology:** Systematic analysis and design approach.
+
+---
+
+## 📂 Project Documentation
+The complete technical report covering the analysis, design, and methodology is available below:
+[📥 Download Full Project Documentation (PDF)](Electronic_Will_Application(GP2).pdf.pdf)
+
+---
+
+## 👥 The Development Team
+This project was submitted in partial fulfillment of the requirements for the Degree of B.Sc. in Computer Science at **King Khalid University**.
+
+**Team Members:**
+* Amani Hamad Ahmed
+* Jana Mesfer Mohammed
+* Mashael Mohammed Ali
+* Rana Abdullah Al-jaziea
+* Rahaf Hassan Ali
+* Weجdan Mesfer Alqhtani
+
+**Supervised by:** Dr. Sara Abdulrahman
+
+---
 <p align="center">
-  <img src="preview.png" width="80%" />
+  <i>"Towards a new standard for testamentary planning in the digital age."</i>
 </p>
-
----
-
-<!-- 🎨 UI SECTION -->
-<h2>🎨 User Interface</h2>
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="login.png" width="90%"/><br/>
-<b>🔐 Login</b><br/>
-<sub>Secure and smooth authentication</sub>
-</td>
-
-<td align="center" width="50%">
-<img src="home.png" width="90%"/><br/>
-<b>🏠 Home</b><br/>
-<sub>Clean dashboard & easy navigation</sub>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="will.png" width="90%"/><br/>
-<b>📝 Create Will</b><br/>
-<sub>Simple and structured input</sub>
-</td>
-
-<td align="center">
-<img src="donation.png" width="90%"/><br/>
-<b>🎁 Donation</b><br/>
-<sub>Flexible asset distribution</sub>
-</td>
-</tr>
-</table>
-
----
-
-<!-- ⚙️ FEATURES -->
-<h2>🚀 Features</h2>
-
-<p>
-✔ Secure user authentication<br/>
-✔ Digital will creation<br/>
-✔ Organized beneficiaries & assets<br/>
-✔ Scalable architecture
-</p>
-
----
-
-<!-- 🧠 SYSTEM DESIGN -->
-<h2>🧠 System Design</h2>
-
-<p>
-📌 Use Case Diagram<br/>
-📌 ER Diagram<br/>
-📌 Class Diagram
-</p>
-
----
-
-<!-- 🛠️ TECH -->
-<h2>🛠️ Technologies</h2>
-
-<p>
-Java • Android Studio • MySQL • Laravel
-</p>
-
----
-
-<!-- 👩‍💻 ROLE -->
-<h2>👩‍💻 My Role</h2>
-
-<p>
-- Designed system architecture<br/>
-- Built database structure<br/>
-- Contributed to development & logic
-</p>
-
----
-
-<!-- 📎 FOOTER -->
-<h2>📎 Documentation</h2>
-
-<p>
 Full report available in the PDF file.
 </p>
