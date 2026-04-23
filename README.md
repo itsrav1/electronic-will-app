@@ -1,5 +1,5 @@
 <!-- 🔥 HEADER -->
-<h1 align="center">💼 Smart Electronic Will Management System</h1>
+<h1 align="center">💼 Electronic Will Management app </h1>
 
 <p align="center">
   <b>A Secure Digital Solution for Managing Wills Efficiently</b>
@@ -37,7 +37,7 @@
 
 <td align="center">
 <img src="donation.png" width="90%"/><br/>
-<b>🎁 Asset Distribution</b><br/>
+<b> Asset Distribution</b><br/>
 <sub>Flexible management of beneficiaries and donations</sub>
 </td>
 </tr>
