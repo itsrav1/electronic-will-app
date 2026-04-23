@@ -1,5 +1,5 @@
 <!-- 🔥 HEADER -->
-<h1 align="center">💼 Electronic Will Management app </h1>
+<h1 align="center"> Electronic Will Management app </h1>
 
 <p align="center">
   <b>A Secure Digital Solution for Managing Wills Efficiently</b>
@@ -11,7 +11,7 @@
 
 <hr>
 
-<h2>🎨 Application Interface</h2>
+<h2> Application Interface</h2>
 
 <table>
 <tr>
@@ -21,7 +21,7 @@
 <sub>Ensures user identity protection and secure access</sub>
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="60%">
 <img src="home.png" width="90%"/><br/>
 <b>🏠 Dashboard</b><br/>
 <sub>Central control for managing wills and user data</sub>
