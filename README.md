@@ -21,8 +21,8 @@
 <sub>Ensures user identity protection and secure access</sub>
 </td>
 
-<td align="center" width="60%">
-<img src="home.png" width="90%"/><br/>
+<td align="center" width="50%">
+<img src="home.png" width="100%"/><br/>
 <b>🏠 Dashboard</b><br/>
 <sub>Central control for managing wills and user data</sub>
 </td>
